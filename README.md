@@ -14,6 +14,9 @@ npm run dev
 # build for production with minification
 npm run build
 
+# browser the website
+https://zhuyf.github.io/mycattle/dist/index.html#/
+
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
